@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hai I am ANANDU G NATH 
+#
 I am a skilled Microsoft .NET Developer with 7+ years of experience in software development. I have expertise in a wide range of Microsoft technologies and have worked on various projects involving C# Programming, VB.NET, ASP.NET, ASP.NET Core, MVC, Entity Framework, Desktop Application Software, WPF, XAML, MSSQL, MYSQL, Crystal reports, Dev express, and IIS Configuration.
 I'm passionate about developing high-quality software that meets client requirements and exceeds expectations. My attention to detail and problem-solving skills helps me create elegant solutions that are scalable, reliable, and maintainable. I'm a team player and work collaboratively with clients, project managers, and other developers to deliver projects on time and on budget.
 Here are some of my key skills and strengths:
