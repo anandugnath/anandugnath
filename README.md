@@ -1,5 +1,20 @@
 # 💫 About Me:
 Hai I am ANANDU G NATH 
+I am a skilled Microsoft .NET Developer with 7+ years of experience in software development. I have expertise in a wide range of Microsoft technologies and have worked on various projects involving C# Programming, VB.NET, ASP.NET, ASP.NET Core, MVC, Entity Framework, Desktop Application Software, WPF, XAML, MSSQL, MYSQL, Crystal reports, Dev express, and IIS Configuration.
+I'm passionate about developing high-quality software that meets client requirements and exceeds expectations. My attention to detail and problem-solving skills helps me create elegant solutions that are scalable, reliable, and maintainable. I'm a team player and work collaboratively with clients, project managers, and other developers to deliver projects on time and on budget.
+Here are some of my key skills and strengths:
+
+I have experience with C# .Net, which is essential for developing desktop applications. I have worked on ERP applications and have an in-depth understanding of how to create user-friendly interfaces that provide an intuitive user experience.
+
+I have extensive experience with MSSQL, MYSQL, which is essential for creating high-performance databases that can store, retrieve, and manage large amounts of data efficiently. I'm familiar with MSSQL,MYSQL and have a strong understanding of database design principles.
+
+I have experience with SAP Crystal report, which is essential for creating reports that can be used to analyze data and make informed decisions. I am familiar with Crystal report and can create reports that are easy to understand and visually appealing.
+
+I am a dedicated professional who takes pride in delivering quality work. I am committed to staying up to date with the latest technologies and trends in software development and am always looking for new challenges and opportunities.
+
+C#.Net , Asp.Net MVC ,Asp.Net MVC Core ,WCF,WebAPI 
+Database: MsSQL , MYSQL 
+Reporting: SAP Crystal Report , RDLC, DevExpress Reports
 
 ![](https://komarev.com/ghpvc/?username=anandugnath&color=green)
 # 💻 Tech Stack:
