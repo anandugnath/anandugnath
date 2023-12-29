@@ -23,7 +23,7 @@ Reporting: SAP Crystal Report , RDLC, DevExpress Reports
 
 # 💻 Certificate:
  
- ![HackerRank Sql](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png) 
+ ![HackerRank Sql Basic](https://www.hackerrank.com/certificates/35069cf51975) 
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anandugnath&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
